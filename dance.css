@@ -1,0 +1,11 @@
+h1{
+  color: white;
+  font-size: 65px;
+}
+
+body {
+  background: url("https://images.clipartlogo.com/files/istock/previews/9257/92575689-the-background-dancers-watercolor.jpg");
+  background-repeat:no-repeat;
+
+  background-size:cover;
+}
